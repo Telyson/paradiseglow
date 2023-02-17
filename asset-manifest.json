@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/paradiseglow/static/css/main.ea442b10.css",
+    "main.js": "/paradiseglow/static/js/main.467fb3fe.js",
+    "static/js/787.28cb0dcd.chunk.js": "/paradiseglow/static/js/787.28cb0dcd.chunk.js",
+    "static/media/pic10.jpg": "/paradiseglow/static/media/pic10.b0dc7e254242cb31a444.jpg",
+    "static/media/pic11.jpg": "/paradiseglow/static/media/pic11.25f9d45a087c50f9dc63.jpg",
+    "static/media/pic9.JPG": "/paradiseglow/static/media/pic9.791bff5d9d1a0e08548a.JPG",
+    "static/media/pic5.JPG": "/paradiseglow/static/media/pic5.2c582960aea6a3ce895f.JPG",
+    "static/media/pic13.JPG": "/paradiseglow/static/media/pic13.4b56eeedbb93482219f7.JPG",
+    "static/media/pic12.JPG": "/paradiseglow/static/media/pic12.8b239490f0d9e99bdb28.JPG",
+    "static/media/pic14.JPG": "/paradiseglow/static/media/pic14.77c4d62a22e6a80aba97.JPG",
+    "static/media/pic4.JPG": "/paradiseglow/static/media/pic4.7f264a94899d4b10f781.JPG",
+    "static/media/pic16.JPG": "/paradiseglow/static/media/pic16.83687111d3585b524c58.JPG",
+    "static/media/pic8.JPG": "/paradiseglow/static/media/pic8.2db837daff0b8053bf4a.JPG",
+    "static/media/pic6.JPG": "/paradiseglow/static/media/pic6.7ce0799d6fcbc7cf7227.JPG",
+    "static/media/slick.svg": "/paradiseglow/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/paradiseglow/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/paradiseglow/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/paradiseglow/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/paradiseglow/index.html",
+    "main.ea442b10.css.map": "/paradiseglow/static/css/main.ea442b10.css.map",
+    "main.467fb3fe.js.map": "/paradiseglow/static/js/main.467fb3fe.js.map",
+    "787.28cb0dcd.chunk.js.map": "/paradiseglow/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea442b10.css",
+    "static/js/main.467fb3fe.js"
+  ]
+}
