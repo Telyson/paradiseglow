@@ -13,19 +13,19 @@ export default function Services() {
         <ServicesItem 
             img1={pic9}
             title ="EVENTS"
-            para="I'm a paragraph. Click here to add your own text and edit me."
+            // para="I'm a paragraph. Click here to add your own text and edit me."
         />
 
         <ServicesItem 
             img1={pic8}
             title ="CREATIVE"
-            para="I'm a paragraph. Click here to add your own text and edit me."
+            // para="I'm a paragraph. Click here to add your own text and edit me."
         />
 
         <ServicesItem 
             img1={pic12}
             title ="FASHION"
-            para="I'm a paragraph. Click here to add your own text and edit me."
+            // para="I'm a paragraph. Click here to add your own text and edit me."
         />
 
         </div>
