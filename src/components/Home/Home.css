@@ -1,0 +1,42 @@
+.home {
+    display: flex;
+    height: 87vh;
+    /* min-height: calc(100vh - 10vh); */
+    margin-top: 4rem;
+    /* background-color: aqua; */
+    /* background-image: url("../../img/home-pic.webp");
+    background-size: contain;
+    background-repeat: no-repeat; */
+    align-items: center;
+    justify-content: center;
+    color: #2c6e49;
+}
+
+.back {
+    text-align: center;
+}
+
+.back :nth-child(1) {
+    letter-spacing: 3px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: 2.4rem;
+}
+
+.back :nth-child(2) {
+    padding: 1rem;
+    font-family: 'Satisfy', cursive;
+    font-size: 2rem;
+}
+
+.back :nth-child(3) {
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 3px;
+    font-size: 2rem;
+}
+
+.back :nth-child(4) {
+    margin: 1rem;
+    letter-spacing: 3px;
+}
+

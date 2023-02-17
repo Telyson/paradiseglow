@@ -1,0 +1,65 @@
+.contact {
+    background-color: #2c6e49;
+    /* height: 80vh; */
+    margin-top: 2rem;
+    display: flex;
+    padding: 3rem;
+}
+
+.c-right {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    flex: 1;
+}
+
+.c-right>form {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+}
+
+.c-right .user {
+    width: 20rem;
+    height: 2rem;
+    padding: 1.2rem .3rem;
+    outline: none;
+    border: 2px solid green;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.c-right .button {
+    padding: 0.6rem;
+    border-radius: 12px;
+    outline: none;
+    border: 2px solid green;
+    color: green;
+    cursor: pointer;
+    font-size: bold;
+}
+
+.c-right .succesMail {
+    color: white;
+}
+
+textarea {
+    height: 6rem!important;
+}
+
+.c-left h2, .c-left p {
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+
+@media screen and (max-width: 480px) {
+
+    .contact {
+        display: flex;
+        flex-direction: column;
+    }
+
+}

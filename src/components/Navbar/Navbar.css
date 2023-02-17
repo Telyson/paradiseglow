@@ -1,0 +1,125 @@
+.n-wrapper {
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    background-color: #2c6e49;
+    z-index: 100;
+    width: 100%;
+    top: 0;
+    left: 0;
+    /* padding: 15px; */
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.n-left {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    padding-left: 3rem;
+    cursor: pointer;
+    letter-spacing: 2px;
+}
+
+.n-name {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+.n-name span {
+    font-size: 1rem;
+    font-weight: normal;
+    /* font-family: 'Josefin Sans', sans-serif; */
+}
+
+.n-right {
+    display: flex;
+    /* flex: 1; */
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+    /* background-color: blueviolet; */
+    padding-right: 3rem ;
+}
+
+/* .n-list {
+    flex: 10;
+} */
+
+.n-list > ul {
+    display: flex;
+    gap: 2rem;
+    margin-right: 4rem;
+}
+
+.n-list > ul li {
+    list-style-type: none;
+    cursor: pointer;
+    transition: all 250ms ease-in;
+    color: #fff;
+    /* text-transform: uppercase; */
+}
+
+/* .n-list span {
+    position: relative;
+}
+
+.n-list span::after {
+    content: "";
+    height: 2px;
+    background-color: yellow;
+    position: absolute;
+    top: 0;
+    bottom: -6px;
+    left: 0;
+    right: 0;
+} */
+
+.n-list > ul li:hover {
+    color: #4c956c;
+}
+
+.menubar {
+    font-size: 1.5rem;
+    display: none;
+    color: #fff;
+}
+
+@media screen and (max-width: 480px) {
+
+    .n-right {
+        padding-right: 0;
+        /* padding-left: 1rem; */
+    }
+    .n-list {
+        display: none;
+    }
+
+    .menubar {
+        font-size: 3.5rem;
+        display: block;
+        padding-right: -12rem;
+        margin-right: 0;
+    }
+
+    .n-left {
+        display: flex;
+        /* gap: 2rem; */
+        /* flex-direction: column; */
+        align-items: center;
+        justify-content: center;
+        padding: 1rem;
+        /* padding-left: 3rem; */
+        cursor: pointer;
+    }
+
+    .n-name {
+        font-size: 1.1rem;
+        font-weight: bold;
+    }
+    
+}

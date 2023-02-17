@@ -1,0 +1,13 @@
+#Footer {
+    padding: 2rem;
+    text-align: center;
+    color: green;
+}
+
+#Footer h4 {
+    margin-bottom: 14px;
+}
+
+.icon {
+    margin: 10px;
+}
